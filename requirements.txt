@@ -1,0 +1,12 @@
+category_encoders
+google
+joblib
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+streamlit
+plotly
+shap
